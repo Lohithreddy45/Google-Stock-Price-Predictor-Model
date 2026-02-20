@@ -25,5 +25,3 @@ If it isn't, for installing follow the command:
  ```
 
  Run the code in JUPYTER NOTEBOOK and the results can be seen.
-
-Thank You
